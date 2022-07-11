@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.10",
+    "dotenv": "^16.0.1",
+    "gh-pages": "^4.0.0"
+  },
+  "homepage": "https://[user-name].github.io/[repo-name]/"
+}
