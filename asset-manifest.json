@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wl-system-gh-pages-deploy/static/css/main.b100e6da.chunk.css",
+    "main.js": "/wl-system-gh-pages-deploy/static/js/main.b364ada9.chunk.js",
+    "main.js.map": "/wl-system-gh-pages-deploy/static/js/main.b364ada9.chunk.js.map",
+    "runtime-main.js": "/wl-system-gh-pages-deploy/static/js/runtime-main.9c8243ae.js",
+    "runtime-main.js.map": "/wl-system-gh-pages-deploy/static/js/runtime-main.9c8243ae.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/wl-system-gh-pages-deploy/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.a29e1cda.chunk.js": "/wl-system-gh-pages-deploy/static/js/2.a29e1cda.chunk.js",
+    "static/js/2.a29e1cda.chunk.js.map": "/wl-system-gh-pages-deploy/static/js/2.a29e1cda.chunk.js.map",
+    "index.html": "/wl-system-gh-pages-deploy/index.html",
+    "precache-manifest.9837e4de659b227798c69ccebf82c1ef.js": "/wl-system-gh-pages-deploy/precache-manifest.9837e4de659b227798c69ccebf82c1ef.js",
+    "service-worker.js": "/wl-system-gh-pages-deploy/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/wl-system-gh-pages-deploy/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/wl-system-gh-pages-deploy/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c8243ae.js",
+    "static/css/2.63f31f8d.chunk.css",
+    "static/js/2.a29e1cda.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.b364ada9.chunk.js"
+  ]
+}
